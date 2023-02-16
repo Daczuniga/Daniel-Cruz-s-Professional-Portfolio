@@ -11,6 +11,7 @@ h1 {
 /*Links*/
 html{
     scroll-behavior: smooth;
+    
 }
 h3,body,#About_the_Dev{
     font-family: 'Sofia Sans Semi Condensed', sans-serif;
@@ -57,3 +58,13 @@ a {
 a:hover{
     color:rgb(0, 99, 65);
 }
+#HIKR {
+    position: absolute;
+    top: 600px;
+    left: 100px;
+  }
+#HORISEON {
+    
+    top: 600px;
+    left: 400px;
+  }
