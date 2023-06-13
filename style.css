@@ -61,10 +61,11 @@ a:hover{
 #HIKR {
     position: absolute;
     top: 600px;
-    left: 100px;
+    left: 200px;
   }
-#HORISEON {
-    
+#Zoosta {
+    position: absolute;
     top: 600px;
-    left: 400px;
+    left: 900px;
   }
+
